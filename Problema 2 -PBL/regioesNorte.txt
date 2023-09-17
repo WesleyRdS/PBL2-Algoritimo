@@ -1,0 +1,100 @@
+T5021;Manicoré;3832978;AM;Amazonas;720
+T5032;Laranjal do Jari;3803332;AP;Amapá;253
+T5044;Manaus;3251381;AM;Amazonas;248
+T5655;Rolim de Moura;3976411;RO;Rondônia;757
+T5121;Rio Branco;3615922;AC;Acre;663
+T4052;Macará;3992773;PA;Pará;433
+T4620;Cruzeiro do Sul;3690557;AC;Acre;395
+T4694;Cruzeiro do Sul;3019385;AC;Acre;319
+T5939;Boa Vista;3858303;RR;Roraima;196
+T6970;Macará;3856892;PA;Pará;351
+T1240;Cruzeiro do Sul;3418853;AC;Acre;795
+T4208;Rio Branco;3649936;AC;Acre;833
+T1853;Porto Velho;3740429;RO;Rondônia;467
+T4886;Rio Branco;3307192;AC;Acre;194
+T9637;Palmas;3079515;TO;Tocantins;604
+T4358;Porto Velho;3628676;RO;Rondônia;255
+T9325;Porto Nacional;3106659;TO;Tocantins;212
+T1104;Belém;3332653;PA;Pará;760
+T3367;Cruzeiro do Sul;3865236;AC;Acre;195
+T9259;Macapá;3362371;AP;Amapá;264
+T8431;Porto Nacional;3440323;TO;Tocantins;479
+T6944;Belém;3990212;PA;Pará;886
+T9569;Boa Vista;3386097;RR;Roraima;252
+T7283;Macapá;3642630;AP;Amapá;118
+T2598;Macará;3842064;PA;Pará;705
+T8355;Rio Branco;3356771;AC;Acre;348
+T2172;Porto Nacional;3574622;TO;Tocantins;120
+T2452;Palmas;3133618;TO;Tocantins;269
+T9840;Porto Velho;3747290;RO;Rondônia;142
+T1381;Macapá;3713426;AP;Amapá;279
+T3170;Macará;3245510;PA;Pará;305
+T2252;Macapá;3461237;AP;Amapá;315
+T7125;Porto Nacional;3077829;TO;Tocantins;843
+T4276;Manicoré;3174111;AM;Amazonas;489
+T4196;Belém;3285906;PA;Pará;573
+T1241;Rolim de Moura;3917200;RO;Rondônia;512
+T6456;Boa Vista;3157771;RR;Roraima;883
+T5223;Manaus;3888981;AM;Amazonas;244
+T2702;Macapá;3868043;AP;Amapá;194
+T8771;Palmas;3410074;TO;Tocantins;116
+T7550;Rio Branco;3935517;AC;Acre;808
+T8389;Macapá;3917191;AP;Amapá;248
+T3215;Palmas;3313240;TO;Tocantins;479
+T4373;Porto Velho;3306020;RO;Rondônia;129
+T9465;Belém;3745477;PA;Pará;451
+T4897;Manaus;3333890;AM;Amazonas;482
+T9975;Porto Velho;3905323;RO;Rondônia;324
+T1985;Rio Branco;3787096;AC;Acre;684
+T3937;Rio Branco;3386858;AC;Acre;235
+T9805;Manaus;3825738;AM;Amazonas;543
+T1616;Rio Branco;3031917;AC;Acre;386
+T7117;Porto Velho;3864731;RO;Rondônia;424
+T5521;Cruzeiro do Sul;3120646;AC;Acre;412
+T2163;Manaus;3299029;AM;Amazonas;804
+T6834;Macará;3341813;PA;Pará;668
+T3130;Porto Nacional;3647869;TO;Tocantins;220
+T4323;Palmas;3960211;TO;Tocantins;391
+T3224;Porto Velho;3113946;RO;Rondônia;598
+T2479;Palmas;3743629;TO;Tocantins;613
+T7307;Rolim de Moura;3023967;RO;Rondônia;412
+T2958;Macará;3845961;PA;Pará;383
+T1601;Macará;3332890;PA;Pará;453
+T6454;Laranjal do Jari;3229959;AP;Amapá;441
+T9486;Macapá;3112150;AP;Amapá;498
+T3907;Rolim de Moura;3260279;RO;Rondônia;259
+T9520;Manicoré;3855101;AM;Amazonas;718
+T6856;Porto Velho;3137510;RO;Rondônia;169
+T5978;Macapá;3052104;AP;Amapá;593
+T7562;Porto Nacional;3880484;TO;Tocantins;211
+T4273;Rio Branco;3070067;AC;Acre;167
+T8793;Manaus;3593880;AM;Amazonas;789
+T3152;Laranjal do Jari;3086091;AP;Amapá;895
+T9272;Belém;3055796;PA;Pará;403
+T7611;Laranjal do Jari;3272844;AP;Amapá;430
+T7433;Rolim de Moura;3304177;RO;Rondônia;167
+T9240;Manaus;3314703;AM;Amazonas;566
+T8804;Manaus;3176827;AM;Amazonas;880
+T2754;Macapá;3389430;AP;Amapá;767
+T4526;Macará;3598143;PA;Pará;789
+T3197;Macapá;3816112;AP;Amapá;305
+T6204;Macará;3045601;PA;Pará;653
+T6550;Belém;3503470;PA;Pará;836
+T5611;Manaus;3031254;AM;Amazonas;417
+T4989;Macará;3559756;PA;Pará;276
+T1796;Cruzeiro do Sul;3714190;AC;Acre;797
+T3917;Cruzeiro do Sul;3664818;AC;Acre;891
+T2187;Cruzeiro do Sul;3277418;AC;Acre;155
+T3488;Laranjal do Jari;3920644;AP;Amapá;274
+T2530;Manaus;3775858;AM;Amazonas;652
+T9056;Manaus;3480602;AM;Amazonas;343
+T8167;Macará;3056551;PA;Pará;149
+T3425;Boa Vista;3988744;RR;Roraima;599
+T1999;Cruzeiro do Sul;3777532;AC;Acre;883
+T2329;Boa Vista;3598818;RR;Roraima;468
+T4880;Manicoré;3199256;AM;Amazonas;280
+T3131;Rolim de Moura;3336722;RO;Rondônia;898
+T5733;Cruzeiro do Sul;3943609;AC;Acre;891
+T4376;Macará;3216675;PA;Pará;654
+T7273;Boa Vista;3080739;RR;Roraima;548
+T5583;Boa Vista;3710005;RR;Roraima;849

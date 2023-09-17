@@ -1,0 +1,100 @@
+﻿9374;Londrina;2420244;PR;Paraná;862
+5816;Londrina;2471499;PR;Paraná;514
+4848;Florianópolis;2156718;SC;Santa Catarina;216
+5390;Joinvile;2177393;SC;Santa Catarina;592
+8034;Londrina;2195677;PR;Paraná;594
+4322;Joinvile;2399054;SC;Santa Catarina;357
+3613;Joinvile;2959356;SC;Santa Catarina;153
+3730;Porto Alegre;2453320;RS;Rio Grabde do Sul;779
+6141;Caxias do sul;2364377;RS;Rio Grabde do Sul;704
+5736;Porto Alegre;2972433;RS;Rio Grabde do Sul;500
+6817;Porto Alegre;2338621;RS;Rio Grabde do Sul;689
+3110;Florianópolis;2774044;SC;Santa Catarina;371
+6291;Joinvile;2599064;SC;Santa Catarina;871
+1574;Caxias do sul;2657645;RS;Rio Grabde do Sul;546
+3770;Porto Alegre;2059865;RS;Rio Grabde do Sul;398
+1702;Florianópolis;2427279;SC;Santa Catarina;620
+5783;Londrina;2175551;PR;Paraná;483
+5396;Porto Alegre;2418119;RS;Rio Grabde do Sul;414
+6087;Florianópolis;2437294;SC;Santa Catarina;859
+3179;Caxias do sul;2019656;RS;Rio Grabde do Sul;666
+8756;Caxias do sul;2272058;RS;Rio Grabde do Sul;897
+5722;Florianópolis;2788857;SC;Santa Catarina;817
+6898;Joinvile;2945038;SC;Santa Catarina;424
+2078;Joinvile;2380558;SC;Santa Catarina;733
+7496;Porto Alegre;2992876;RS;Rio Grabde do Sul;394
+6855;Londrina;2973074;PR;Paraná;626
+9439;Florianópolis;2369776;SC;Santa Catarina;310
+3413;Londrina;2558377;PR;Paraná;799
+8332;Londrina;2420060;PR;Paraná;870
+3208;Porto Alegre;2512957;RS;Rio Grabde do Sul;225
+2035;Florianópolis;2424027;SC;Santa Catarina;824
+1848;curitiba;2873821;PR;Paraná;897
+1629;Florianópolis;2280931;SC;Santa Catarina;347
+3881;Joinvile;2260486;SC;Santa Catarina;232
+2666;curitiba;2388986;PR;Paraná;719
+8160;Porto Alegre;2290084;RS;Rio Grabde do Sul;201
+4632;curitiba;2267362;PR;Paraná;405
+1969;Londrina;2231243;PR;Paraná;372
+6935;Londrina;2397815;PR;Paraná;835
+5392;Joinvile;2208188;SC;Santa Catarina;535
+4755;curitiba;2595953;PR;Paraná;344
+3759;Caxias do sul;2605456;RS;Rio Grabde do Sul;209
+9762;Florianópolis;2321325;SC;Santa Catarina;827
+5665;curitiba;2835600;PR;Paraná;404
+1252;Caxias do sul;2390589;RS;Rio Grabde do Sul;522
+9836;curitiba;2446166;PR;Paraná;671
+3673;Porto Alegre;2173977;RS;Rio Grabde do Sul;440
+2039;curitiba;2524407;PR;Paraná;564
+1123;Porto Alegre;2731537;RS;Rio Grabde do Sul;389
+9316;curitiba;2523118;PR;Paraná;480
+5786;Porto Alegre;2807793;RS;Rio Grabde do Sul;745
+10000;Joinvile;2301124;SC;Santa Catarina;313
+8179;Porto Alegre;2185317;RS;Rio Grabde do Sul;726
+5115;Florianópolis;2295325;SC;Santa Catarina;614
+4663;Londrina;2863732;PR;Paraná;715
+3881;Joinvile;2856179;SC;Santa Catarina;299
+3456;Porto Alegre;2389159;RS;Rio Grabde do Sul;599
+2258;Porto Alegre;2946725;RS;Rio Grabde do Sul;578
+6363;Florianópolis;2797951;SC;Santa Catarina;113
+8222;Joinvile;2872631;SC;Santa Catarina;410
+4338;Caxias do sul;2501002;RS;Rio Grabde do Sul;757
+5608;curitiba;2838924;PR;Paraná;491
+9544;Porto Alegre;2958603;RS;Rio Grabde do Sul;453
+8512;curitiba;2703374;PR;Paraná;430
+7364;Joinvile;2510714;SC;Santa Catarina;527
+9726;Joinvile;2289330;SC;Santa Catarina;821
+3086;Londrina;2180087;PR;Paraná;400
+9231;Caxias do sul;2095164;RS;Rio Grabde do Sul;131
+6862;Caxias do sul;2160237;RS;Rio Grabde do Sul;138
+7724;Londrina;2770485;PR;Paraná;378
+9530;Joinvile;2856088;SC;Santa Catarina;156
+5586;curitiba;2445167;PR;Paraná;753
+8580;Joinvile;2152132;SC;Santa Catarina;237
+2492;curitiba;2735118;PR;Paraná;542
+5139;curitiba;2265493;PR;Paraná;275
+1062;Florianópolis;2562852;SC;Santa Catarina;806
+4989;Caxias do sul;2037498;RS;Rio Grabde do Sul;252
+9978;Joinvile;2559572;SC;Santa Catarina;865
+7501;Londrina;2509455;PR;Paraná;687
+9485;curitiba;2548600;PR;Paraná;119
+9881;Caxias do sul;2049778;RS;Rio Grabde do Sul;816
+1209;Joinvile;2074750;SC;Santa Catarina;649
+7868;Londrina;2869675;PR;Paraná;643
+3910;Joinvile;2152647;SC;Santa Catarina;844
+5042;Florianópolis;2953739;SC;Santa Catarina;196
+5116;Florianópolis;2922103;SC;Santa Catarina;257
+3084;Londrina;2323900;PR;Paraná;424
+9574;Londrina;2688081;PR;Paraná;128
+1358;Florianópolis;2087380;SC;Santa Catarina;621
+1029;Porto Alegre;2467620;RS;Rio Grabde do Sul;187
+8822;curitiba;2432755;PR;Paraná;189
+9035;Londrina;2033370;PR;Paraná;469
+8949;Londrina;2617455;PR;Paraná;209
+6856;Caxias do sul;2294783;RS;Rio Grabde do Sul;302
+1945;curitiba;2443672;PR;Paraná;263
+6065;curitiba;2970841;PR;Paraná;379
+4441;Caxias do sul;2546488;RS;Rio Grabde do Sul;546
+1770;Porto Alegre;2446141;RS;Rio Grabde do Sul;184
+6156;curitiba;2079887;PR;Paraná;495
+3870;Florianópolis;2550561;SC;Santa Catarina;169

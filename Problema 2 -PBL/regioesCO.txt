@@ -1,0 +1,100 @@
+T3345;Brasilia;2007939;DF;Distrito Federal;891
+T2860;Brasilia;2222056;DF;Distrito Federal;466
+T9855;Rondonópolis;2008234;MT;Mato Grosso;138
+T4346;Campo Grande;4888822;MS;Mato Grosso;247
+T7853;Brasilia;2814666;DF;Distrito Federal;182
+T1958;Rondonópolis;2252815;MT;Mato Grosso;590
+T4249;Cuiabá;3898953;MT;Goiás;358
+T5767;Campo Grande;3001564;MS;Mato Grosso;736
+T3643;Cuiabá;3183673;MT;Goiás;704
+T2785;Brasilia;3773899;DF;Distrito Federal;592
+T5929;Dourados;4636426;MS;Mato Grosso do Sul;647
+T9900;Campo Grande;2439473;MS;Mato Grosso;664
+T2612;Rondonópolis;3175777;MT;Mato Grosso;292
+T5998;Goiânia;2757640;GO;Distrito Federal;293
+T7889;Brasilia;4719276;DF;Distrito Federal;676
+T5601;Anápoles;2619928;GO;Goiás;103
+T8620;Brasilia;3729714;DF;Distrito Federal;178
+T2549;Anápoles;3361221;GO;Goiás;608
+T5334;Cuiabá;2043322;MT;Goiás;729
+T6698;Goiânia;2277231;GO;Distrito Federal;679
+T9674;Goiânia;3377057;GO;Distrito Federal;233
+T4086;;4093064;;Mato Grosso do Sul;737
+T8142;Brasilia;4064090;DF;Distrito Federal;476
+T4652;Anápoles;4377732;GO;Goiás;294
+T1252;Campo Grande;4943395;MS;Mato Grosso;210
+T2547;Anápoles;4422701;GO;Goiás;812
+T2988;;2813992;;Mato Grosso do Sul;286
+T5372;Campo Grande;4392705;MS;Mato Grosso;293
+T3821;;2531231;;Mato Grosso do Sul;219
+T8627;Campo Grande;2308601;MS;Mato Grosso;671
+T2744;Goiânia;3911648;GO;Distrito Federal;318
+T5218;Brasilia;4763602;DF;Distrito Federal;592
+T6478;Anápoles;3583588;GO;Goiás;772
+T8875;Rondonópolis;3311629;MT;Mato Grosso;217
+T4325;Cuiabá;3136146;MT;Goiás;107
+T3983;Anápoles;2877288;GO;Goiás;199
+T7991;Rondonópolis;4438038;MT;Mato Grosso;312
+T2074;Anápoles;4772044;GO;Goiás;706
+T3597;Rondonópolis;2640221;MT;Mato Grosso;482
+T2407;Goiânia;4186391;GO;Distrito Federal;712
+T3360;Cuiabá;2009465;MT;Goiás;275
+T7788;Cuiabá;3868324;MT;Goiás;725
+T5155;Anápoles;3066314;GO;Goiás;501
+T7927;;4543434;;Mato Grosso do Sul;118
+T9198;Rondonópolis;2674980;MT;Mato Grosso;853
+T9712;Goiânia;2496845;GO;Distrito Federal;135
+T1676;Rondonópolis;4172564;MT;Mato Grosso;167
+T4724;Cuiabá;4927939;MT;Goiás;556
+T6406;;4727670;;Mato Grosso do Sul;658
+T9264;Goiânia;3992605;GO;Distrito Federal;153
+T2225;Anápoles;3311892;GO;Goiás;853
+T5682;Goiânia;2858480;GO;Distrito Federal;507
+T3624;Campo Grande;4933223;MS;Mato Grosso;515
+T5815;Anápoles;4271637;GO;Goiás;524
+T7922;Cuiabá;2906496;MT;Goiás;700
+T7734;Brasilia;4785481;DF;Distrito Federal;704
+T7493;Cuiabá;3926030;MT;Goiás;202
+T9455;Goiânia;3100782;GO;Distrito Federal;139
+T4871;Campo Grande;4990122;MS;Mato Grosso;715
+T3854;Campo Grande;3529832;MS;Mato Grosso;603
+T7547;Anápoles;4768328;GO;Goiás;648
+T1800;Rondonópolis;2282084;MT;Mato Grosso;410
+T8065;;2493900;;Mato Grosso do Sul;605
+T1798;Cuiabá;3072241;MT;Goiás;277
+T7714;Anápoles;4709623;GO;Goiás;701
+T2955;Dourados;4511754;MS;Mato Grosso do Sul;878
+T8889;Campo Grande;2494518;MS;Mato Grosso;510
+T5751;Dourados;4717417;MS;Mato Grosso do Sul;564
+T5230;;3239889;;Mato Grosso do Sul;337
+T7993;Goiânia;3593762;GO;Distrito Federal;689
+T6466;Brasilia;3007311;DF;Distrito Federal;332
+T5087;Brasilia;4959585;DF;Distrito Federal;158
+T3151;Brasilia;4120665;DF;Distrito Federal;824
+T8517;Brasilia;4305391;DF;Distrito Federal;615
+T5040;Cuiabá;2374538;MT;Goiás;507
+T8251;Dourados;3219156;MS;Mato Grosso do Sul;758
+T5872;Goiânia;2106897;GO;Distrito Federal;497
+T7545;Campo Grande;4304862;MS;Mato Grosso;129
+T5762;Dourados;4788632;MS;Mato Grosso do Sul;619
+T5561;Brasilia;3087936;DF;Distrito Federal;459
+T4230;Anápoles;3625721;GO;Goiás;461
+T2421;Cuiabá;3097507;MT;Goiás;239
+T1084;Brasilia;2645481;DF;Distrito Federal;714
+T4991;;3264991;;Mato Grosso do Sul;474
+T4827;Campo Grande;3747341;MS;Mato Grosso;714
+T3602;;3344455;;Mato Grosso do Sul;366
+T4338;Goiânia;2266995;GO;Distrito Federal;342
+T6878;Campo Grande;4977096;MS;Mato Grosso;167
+T2874;;2119887;;Mato Grosso do Sul;863
+T3545;Brasilia;3127723;DF;Distrito Federal;274
+T7083;Anápoles;4653862;GO;Goiás;636
+T2714;Campo Grande;2326880;MS;Mato Grosso;633
+T6739;;3608950;;Mato Grosso do Sul;169
+T7801;Anápoles;4293902;GO;Goiás;572
+T8775;Dourados;3900509;MS;Mato Grosso do Sul;294
+T9845;Cuiabá;3810903;MT;Goiás;271
+T1410;Cuiabá;3732538;MT;Goiás;783
+T6107;;3970681;;Mato Grosso do Sul;821
+T8712;Rondonópolis;2326196;MT;Mato Grosso;618
+T2880;Brasilia;4809700;DF;Distrito Federal;640

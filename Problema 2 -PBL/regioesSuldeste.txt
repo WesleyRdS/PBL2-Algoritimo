@@ -1,0 +1,100 @@
+T3363;Vitória;4517292;ES;Espirito Santos;413
+T3206;Rio de Janeiro;4882172;RJ;Rio de Janeiro;583
+T6439;Rio de Janeiro;4214265;RJ;Rio de Janeiro;285
+T4855;Belo Horizonte;4698096;MJ;Minas Gerais;781
+T7309;Santos;4254776;SP;São Paulo;403
+T8899;Vitória;4804814;ES;Espirito Santos;775
+T6965;Vitória;4832169;ES;Espirito Santos;280
+T5276;Vila Velha;4261624;ES;Espirito Santos;849
+T8269;Vila Velha;4710595;ES;Espirito Santos;206
+T9730;Rio de Janeiro;4890249;RJ;Rio de Janeiro;766
+T7590;Santos;4290380;SP;São Paulo;352
+T9602;Vila Velha;4952901;ES;Espirito Santos;638
+T2763;Niterói;4466772;RJ;Rio de Janeiro;449
+T5196;Niterói;4268780;RJ;Rio de Janeiro;470
+T4580;Vitória;4897581;ES;Espirito Santos;699
+T2573;Vitória;4052552;ES;Espirito Santos;620
+T4283;Santos;4000322;SP;São Paulo;271
+T8882;Vitória;4986712;ES;Espirito Santos;616
+T1184;Contagem;4498577;MJ;Minas Gerais;665
+T7634;Vitória;4758612;ES;Espirito Santos;848
+T7742;São Paulo;4638771;SP;São Paulo;648
+T4815;Vitória;4845680;ES;Espirito Santos;654
+T6499;Contagem;4073466;MJ;Minas Gerais;845
+T1523;Vila Velha;4199708;ES;Espirito Santos;868
+T7587;Contagem;4019555;MJ;Minas Gerais;345
+T1988;Vitória;4420003;ES;Espirito Santos;817
+T2710;Santos;4850807;SP;São Paulo;749
+T1816;São Paulo;4875397;SP;São Paulo;427
+T5447;Vila Velha;4677880;ES;Espirito Santos;659
+T5428;Rio de Janeiro;4452179;RJ;Rio de Janeiro;382
+T4418;Niterói;4767262;RJ;Rio de Janeiro;160
+T3666;Niterói;4114484;RJ;Rio de Janeiro;294
+T1288;Vitória;4011359;ES;Espirito Santos;553
+T5009;Niterói;4535334;RJ;Rio de Janeiro;564
+T1691;São Paulo;4964224;SP;São Paulo;110
+T3322;Vitória;4176470;ES;Espirito Santos;663
+T3282;Contagem;4988193;MJ;Minas Gerais;612
+T1269;Vila Velha;4461654;ES;Espirito Santos;335
+T1776;São Paulo;4419260;SP;São Paulo;357
+T1462;Contagem;4285350;MJ;Minas Gerais;569
+T8502;Vila Velha;4866286;ES;Espirito Santos;469
+T7541;Rio de Janeiro;4967732;RJ;Rio de Janeiro;762
+T1624;Vitória;4897159;ES;Espirito Santos;134
+T3861;Niterói;4726277;RJ;Rio de Janeiro;306
+T6115;Rio de Janeiro;4231087;RJ;Rio de Janeiro;735
+T6363;Vila Velha;4038688;ES;Espirito Santos;293
+T4418;Niterói;4491981;RJ;Rio de Janeiro;395
+T4338;Belo Horizonte;4515778;MJ;Minas Gerais;613
+T7440;Belo Horizonte;4801772;MJ;Minas Gerais;109
+T8032;Belo Horizonte;4585917;MJ;Minas Gerais;555
+T4440;Rio de Janeiro;4994398;RJ;Rio de Janeiro;660
+T3996;Rio de Janeiro;4355743;RJ;Rio de Janeiro;806
+T9235;Rio de Janeiro;4032807;RJ;Rio de Janeiro;287
+T5625;Niterói;4578009;RJ;Rio de Janeiro;766
+T5041;Belo Horizonte;4082166;MJ;Minas Gerais;602
+T6392;São Paulo;4236579;SP;São Paulo;347
+T2475;Vila Velha;4330940;ES;Espirito Santos;823
+T9450;Contagem;4632769;MJ;Minas Gerais;177
+T1931;Niterói;4215283;RJ;Rio de Janeiro;445
+T8751;São Paulo;4333605;SP;São Paulo;597
+T5819;Niterói;4150234;RJ;Rio de Janeiro;772
+T8760;Vila Velha;4822287;ES;Espirito Santos;131
+T3051;São Paulo;4342336;SP;São Paulo;330
+T3182;São Paulo;4137049;SP;São Paulo;445
+T9340;Vitória;4197192;ES;Espirito Santos;260
+T8552;São Paulo;4509006;SP;São Paulo;687
+T5619;Santos;4456169;SP;São Paulo;213
+T5797;Contagem;4492864;MJ;Minas Gerais;592
+T2047;Belo Horizonte;4268002;MJ;Minas Gerais;556
+T8485;Niterói;4163263;RJ;Rio de Janeiro;654
+T1415;Contagem;4479313;MJ;Minas Gerais;504
+T4577;São Paulo;4296986;SP;São Paulo;183
+T6781;Vitória;4664412;ES;Espirito Santos;846
+T3541;Santos;4941833;SP;São Paulo;856
+T9083;Vitória;4413657;ES;Espirito Santos;831
+T4998;Vila Velha;4957484;ES;Espirito Santos;694
+T6162;Niterói;4139732;RJ;Rio de Janeiro;771
+T5119;Santos;4383319;SP;São Paulo;571
+T1215;São Paulo;4925947;SP;São Paulo;299
+T5223;Contagem;4684157;MJ;Minas Gerais;657
+T5457;Vitória;4587141;ES;Espirito Santos;112
+T3856;Santos;4620102;SP;São Paulo;109
+T9113;Rio de Janeiro;4851780;RJ;Rio de Janeiro;392
+T4515;Vila Velha;4619351;ES;Espirito Santos;798
+T5095;Santos;4145180;SP;São Paulo;499
+T9489;Santos;4509429;SP;São Paulo;193
+T1739;Belo Horizonte;4768040;MJ;Minas Gerais;198
+T8785;Rio de Janeiro;4138879;RJ;Rio de Janeiro;763
+T7545;Vila Velha;4989648;ES;Espirito Santos;651
+T2180;Santos;4432573;SP;São Paulo;888
+T7824;Contagem;4260752;MJ;Minas Gerais;337
+T2091;Santos;4206776;SP;São Paulo;822
+T3215;Contagem;4009706;MJ;Minas Gerais;837
+T3642;São Paulo;4202851;SP;São Paulo;841
+T2048;Rio de Janeiro;4178386;RJ;Rio de Janeiro;567
+T6787;Contagem;4423703;MJ;Minas Gerais;240
+T2572;Contagem;4647243;MJ;Minas Gerais;600
+T6652;Contagem;4412446;MJ;Minas Gerais;488
+T7359;Vitória;4527464;ES;Espirito Santos;307
+T5670;Contagem;4398145;MJ;Minas Gerais;344
